@@ -357,7 +357,5 @@ vendor/etc/thermal-engine.conf|c6c9312b7c7b52926cf7d0fc9bff933d90967100
 
 # Widevine DRM L1 support - from beryllium
 vendor/lib64/libhdcpsrm.so|02349706343816c1009d6ab20ebe411974d78b20
-vendor/lib64/liboemcrypto.so|1dab9e19d1fcff09f3467b9368160c4849585b9b
 vendor/lib64/libwvkeybox.so|5a3728bc0a027e68486eda4049974cf387a73d60
-vendor/lib/liboemcrypto.so|040eaebcde9633ec59898b2ae01408f210def2de
 vendor/lib/libwvkeybox.so|cfcde2783ed25d97f4ca69bf9f80c6ca17bb51bd

@@ -341,20 +341,6 @@ vendor/etc/sensors/config/tmd2725.json|2e9a3a0f64197e4d9705687eed661758659ebd4f
 vendor/etc/sensors/hals.conf|bf3677cbfa5ce5735662e8c259cb027969f65c87
 vendor/etc/sensors/sns_reg_config|9922422f6b57f69d802091b67df9b7a907ea2662
 
-# Thermal configs - from beryllium
-vendor/etc/thermal-engine-sdm845-arvr.conf|6c35aaccf277fa5b521ad2cdccabecfd21aba409
-vendor/etc/thermal-engine-sdm845-camera.conf|25027c6641fbd20200bed7dccb80e902efcf1c4f
-vendor/etc/thermal-engine-sdm845-class0.conf|32680266fa4e6c6e5580e63787daf05e01739e77
-vendor/etc/thermal-engine-sdm845-e10-india.conf|40019b01ebe4e9b0e0a0ec7921b5831aef861254
-vendor/etc/thermal-engine-sdm845-extreme.conf|4f1999120d813373b513f77be74380ed0f3bcee3
-vendor/etc/thermal-engine-sdm845-map.conf|7bae0ee1872dcd63bc97d1cbece26dbd9b51b152
-vendor/etc/thermal-engine-sdm845-nolimits.conf|e081dc8f06ebcd623b07244b9c009999f6893a75
-vendor/etc/thermal-engine-sdm845-pubgmhd.conf|459b5ff4b6a5617628e7a832824d1155796bf521
-vendor/etc/thermal-engine-sdm845-sgame.conf|0b9c44a2b66813de4d02ebc6a147460cb063806b
-vendor/etc/thermal-engine-sdm845-tgame.conf|bf2be6b04ea6e6fa96300b73f1e2731502e8abc1
-vendor/etc/thermal-engine-sdm845.conf|d60522d7b7621a782cc59bb5d1852526d7818616
-vendor/etc/thermal-engine.conf|c6c9312b7c7b52926cf7d0fc9bff933d90967100
-
 # Widevine DRM L1 support - from beryllium
 vendor/lib64/libhdcpsrm.so|02349706343816c1009d6ab20ebe411974d78b20
 vendor/lib64/liboemcrypto.so|1dab9e19d1fcff09f3467b9368160c4849585b9b
